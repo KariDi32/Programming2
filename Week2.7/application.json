@@ -1,0 +1,8 @@
+{
+    "input_directory": "/homes/jkdiazbarba/Documents/Programming/DSLS_Prog2/Programming2/Week2.7/input",
+    "output_directory": "/homes/jkdiazbarba/Documents/Programming/DSLS_Prog2/Programming2/Week2.7/output",
+    "img_directory": "/homes/jkdiazbarba/Documents/Programming/DSLS_Prog2/Programming2/Week2.7/img",
+    "sensor_names": ["sensor_23"],
+    "file_name":"Week2.7_sensor_train_data.csv",
+    "interval": 30
+  }
