@@ -6,8 +6,8 @@ j.k.diaz.barba@st.hanze.nl
 _Code FileS:_ 
   - `Week_1.2.ipynb`
   - `Week_1.3.ipynb`
-  - `Week_1.4.ipynb`
-  - `Week_2.1.ipynb`
+  - `Week_1.4.ipynb` -> _Exercise 1_ and _Exercise 2_ done. _Exercise 3: refactoring other people's code._ could not be done because the site does not exist anymore
+  - `Week_2.1.ipynb` -> Not completed
   - `Week_2.2.ipynb`
   - `Week_2.5.ipynb`
   - `Week_2.6.ipynb`
