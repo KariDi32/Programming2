@@ -4,6 +4,9 @@ _Author:_ Juana Karina Diaz Barba
 j.k.diaz.barba@st.hanze.nl
 
 _Code FileS:_ 
+
+Note: All the codes are completed unless otherwise stated.  
+
   - `Week_1.2.ipynb`
   - `Week_1.3.ipynb`
   - `Week_1.4.ipynb` -> _Exercise 1_ and _Exercise 2_ done. _Exercise 3: refactoring other people's code._ could not be done because the site does not exist anymore
