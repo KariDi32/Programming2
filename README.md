@@ -24,9 +24,9 @@ Python3 or above is needed
     - Pandas(v1.4.4)  
     - Numpy(v1.23.3)  
     - Yaml (v6.0)  
-    - Matplotlib(v3.5.2)
-    - Sklearn(v1.1.3)
-    - Dask (v2022.7.0)
+    - Matplotlib(v3.5.2)  
+    - Sklearn(v1.1.3)  
+    - Dask (v2022.7.0)  
 
     
 #### Input files:
